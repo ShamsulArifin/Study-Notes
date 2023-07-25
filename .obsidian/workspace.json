@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "71e279a91d02a067",
+    "type": "split",
+    "children": [
+      {
+        "id": "d046a8ed11508309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc670d218e068fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ 20 CheckList/C++ 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8390bbb6898bc4ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "65c146587701885e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4361f35bd672e97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fafe646ddf0492e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b55cdd8d6abd9c25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "217a862a67823638",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b2c022732b8499d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64c9de544cb1cec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++ 20 CheckList/C++ 20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8acd0851ddbe3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++ 20 CheckList/C++ 20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b160b6bc8ae3afd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b3f5ee367aadcc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++ 20 CheckList/C++ 20.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc670d218e068fe9",
+  "lastOpenFiles": [
+    "reference.md",
+    "References And Const.md",
+    "C++ 20 CheckList/C++ 20.md",
+    "Declaring And Using References.md",
+    "References.md",
+    "Comparing Pointers And References.md",
+    "Garbage Addresses.md",
+    "Reference.md",
+    "C++ 20 CheckList"
+  ]
+}
