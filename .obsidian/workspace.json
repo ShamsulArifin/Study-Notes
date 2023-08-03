@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-String Concatenation And Copying.md",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-String Concatenation And Copying.md",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-String Concatenation And Copying.md",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-String Concatenation And Copying.md"
+                "file": "C++ 20 CheckList/C++ 20.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "cc670d218e068fe9",
   "lastOpenFiles": [
-    "Character Manipulation And Strings.md",
     "C-String Concatenation And Copying.md",
+    "Character Manipulation And Strings.md",
     "Character Manipulation.md",
     "C++ 20 CheckList/C++ 20.md",
     "C-String Manipulation.md",
