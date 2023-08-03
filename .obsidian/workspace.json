@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "C-String Concatenation And Copying.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "C-String Concatenation And Copying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "C-String Concatenation And Copying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md"
+                "file": "C-String Concatenation And Copying.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +147,19 @@
   },
   "active": "cc670d218e068fe9",
   "lastOpenFiles": [
-    "reference.md",
-    "References And Const.md",
+    "Character Manipulation And Strings.md",
+    "C-String Concatenation And Copying.md",
+    "Character Manipulation.md",
     "C++ 20 CheckList/C++ 20.md",
-    "Declaring And Using References.md",
+    "C-String Manipulation.md",
+    "Overview.canvas",
+    "Untitled.canvas",
+    "References And Const.md",
     "References.md",
-    "Comparing Pointers And References.md",
     "Garbage Addresses.md",
+    "Declaring And Using References.md",
+    "Comparing Pointers And References.md",
+    "reference.md",
     "Reference.md",
     "C++ 20 CheckList"
   ]
