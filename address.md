@@ -1,0 +1,1 @@
+In C++, a memory [[address]] is **the location on the computer where a variable is stored**. A memory address is assigned to a variable when it is created. Also, whenever a value is assigned to the variable, it is stored in the memory [[address]].

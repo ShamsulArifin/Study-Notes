@@ -1,0 +1,1 @@
+**A [[character]] is a C++ data type used for the storage of letters**. C++ Char is an integral data type, meaning the value is stored as an integer. It occupies a memory size of 1 byte. C++ Char only stores single character.

@@ -1,0 +1,1 @@
+Dereferencing is **getting at the pointed value**. Pointer variables are useful for walking the contents of a linked list data structure, using a dynamic jump table to subroutines, and passing arguments by [[address]] (so only an address is passed) rather than by value (where the entire data structure is copied).
