@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"file","file":"C++ 20 CheckList/C++ 20.md","id":"2cd5a8f78399acc3","x":80,"y":-2480,"width":400,"height":400,"color":"6"},
+		{"type":"file","file":"References/References.md","id":"0fb2fa142adce262","x":-1720,"y":-1840,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"References/Declaring And Using References.md","id":"a22339234d814a77","x":-2320,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"References/References And Const.md","id":"7a32655c15b481e2","x":-1200,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"References/Comparing Pointers And References.md","id":"a4c83519132a12e6","x":-1720,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Character Manipulation And Strings/Character Manipulation And Strings.md","id":"260b559733487be3","x":80,"y":-1840,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Character Manipulation And Strings/C-String Manipulation.md","id":"8edb22ce13a570ab","x":-240,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Character Manipulation And Strings/C-String Concatenation And Copying.md","id":"e2ac17af821ae187","x":280,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Character Manipulation And Strings/Introducing std string.md","id":"7d6b0830cf61927b","x":800,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Character Manipulation And Strings/Declaring And Using std string.md","id":"cf118ad445cffd4a","x":1320,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Character Manipulation And Strings/Character Manipulation.md","id":"427ebb22ea3c381f","x":-720,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Functions/Functions.md","id":"6fda5985636e4c3e","x":1920,"y":-1840,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Functions/One Definition Rule.md","id":"5c3d23618e168728","x":1920,"y":-1160,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"b3f5a61aad1b3f56","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"0fb2fa142adce262","toSide":"top"},
+		{"id":"a70d8117ba3c5e04","fromNode":"0fb2fa142adce262","fromSide":"bottom","toNode":"a22339234d814a77","toSide":"top"},
+		{"id":"f9ec85285ce36677","fromNode":"0fb2fa142adce262","fromSide":"bottom","toNode":"7a32655c15b481e2","toSide":"top"},
+		{"id":"b6a69812ab83a3a3","fromNode":"0fb2fa142adce262","fromSide":"bottom","toNode":"a4c83519132a12e6","toSide":"top"},
+		{"id":"11450d71960a445b","fromNode":"260b559733487be3","fromSide":"bottom","toNode":"427ebb22ea3c381f","toSide":"top"},
+		{"id":"9586e9f9e0037f0e","fromNode":"260b559733487be3","fromSide":"bottom","toNode":"8edb22ce13a570ab","toSide":"top"},
+		{"id":"10bf8fc8393a5b12","fromNode":"260b559733487be3","fromSide":"bottom","toNode":"e2ac17af821ae187","toSide":"top"},
+		{"id":"e183d6d178f90796","fromNode":"260b559733487be3","fromSide":"bottom","toNode":"7d6b0830cf61927b","toSide":"top"},
+		{"id":"4a2cd8b7084ee9c1","fromNode":"260b559733487be3","fromSide":"bottom","toNode":"cf118ad445cffd4a","toSide":"top"},
+		{"id":"f588539aec51ef2e","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"6fda5985636e4c3e","toSide":"top"},
+		{"id":"78fa5073a0486ae1","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"5c3d23618e168728","toSide":"top"},
+		{"id":"ebcc73581757ecaf","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"260b559733487be3","toSide":"top"}
+	]
+}

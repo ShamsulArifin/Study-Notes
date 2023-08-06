@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d046a8ed11508309",
+        "id": "0797703960bb63f8",
         "type": "tabs",
         "children": [
           {
-            "id": "cc670d218e068fe9",
+            "id": "5c37dfe3526a9732",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++ 20 CheckList/C++ 20.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,28 +137,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc670d218e068fe9",
+  "active": "5c37dfe3526a9732",
   "lastOpenFiles": [
-    "Overview.canvas",
-    "One Definition Rule.md",
-    "Translation units.md",
-    "Functions.md",
     "C++ 20 CheckList/C++ 20.md",
-    "Declaring And Using std string.md",
-    "Character Manipulation And Strings.md",
-    "Character Manipulation.md",
-    "dereferencing.md",
-    "character.md",
-    "Garbage Addresses.md",
-    "address.md",
-    "Introducing std string.md",
-    "References.md",
-    "References And Const.md",
-    "C-String Concatenation And Copying.md",
-    "C-String Manipulation.md",
-    "Comparing Pointers And References.md",
-    "Declaring And Using References.md",
-    "Untitled.canvas",
+    "Extras",
+    "Functions",
+    "Character Manipulation And Strings",
+    "References/Declaring And Using References.md",
+    "References",
+    "Functions/Function Processing.canvas",
+    "Functions/First Hand On Functions.md",
+    "Functions/Functions.md",
+    "C++ 20 CheckList/Overview.canvas",
+    "Function Processing.md",
+    "Extras/input.md",
+    "Extras/output.md",
+    "Functions/One Definition Rule.md",
+    "Extras/Translation units.md",
+    "Character Manipulation And Strings/Declaring And Using std string.md",
+    "Character Manipulation And Strings/Character Manipulation And Strings.md",
+    "Character Manipulation And Strings/Character Manipulation.md",
+    "Extras/dereferencing.md",
+    "Extras/character.md",
+    "Extras/Garbage Addresses.md",
+    "Extras/address.md",
+    "Character Manipulation And Strings/Introducing std string.md",
+    "References/References.md",
+    "References/References And Const.md",
+    "Character Manipulation And Strings/C-String Concatenation And Copying.md",
+    "Character Manipulation And Strings/C-String Manipulation.md",
+    "References/Comparing Pointers And References.md",
     "reference.md",
     "Reference.md",
     "C++ 20 CheckList"
