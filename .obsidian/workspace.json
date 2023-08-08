@@ -121,11 +121,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,36 +140,38 @@
   },
   "active": "5c37dfe3526a9732",
   "lastOpenFiles": [
+    "Functions/Pass By Reference.md",
     "C++ 20 CheckList/C++ 20.md",
+    "C++ 20 CheckList/Overview.canvas",
+    "Functions/Pass By Pointer.md",
+    "Extras/dereference.md",
+    "Extras/variable.md",
+    "vairable.md",
+    "Functions/Pass By Value.md",
+    "References/Comparing Pointers And References.md",
+    "Extras/reference.md",
+    "References/References And Const.md",
+    "References/References.md",
+    "References/Declaring And Using References.md",
+    "Extras/pointer.md",
+    "Functions/Functions.md",
+    "Functions/Function Processing.canvas",
+    "Functions/Functions Across Multiple Files - Compilation Model Revisited.md",
+    "Extras/Compilation Model.canvas",
+    "Functions/Function Declaration & Definition.md",
+    "Extras/Translation units.md",
+    "Functions/First Hand On Functions.md",
+    "Extras/character.md",
+    "Character Manipulation And Strings/Character Manipulation.md",
     "Extras",
     "Functions",
     "Character Manipulation And Strings",
-    "References/Declaring And Using References.md",
     "References",
-    "Functions/Function Processing.canvas",
-    "Functions/First Hand On Functions.md",
-    "Functions/Functions.md",
-    "C++ 20 CheckList/Overview.canvas",
     "Function Processing.md",
     "Extras/input.md",
     "Extras/output.md",
     "Functions/One Definition Rule.md",
-    "Extras/Translation units.md",
     "Character Manipulation And Strings/Declaring And Using std string.md",
-    "Character Manipulation And Strings/Character Manipulation And Strings.md",
-    "Character Manipulation And Strings/Character Manipulation.md",
-    "Extras/dereferencing.md",
-    "Extras/character.md",
-    "Extras/Garbage Addresses.md",
-    "Extras/address.md",
-    "Character Manipulation And Strings/Introducing std string.md",
-    "References/References.md",
-    "References/References And Const.md",
-    "Character Manipulation And Strings/C-String Concatenation And Copying.md",
-    "Character Manipulation And Strings/C-String Manipulation.md",
-    "References/Comparing Pointers And References.md",
-    "reference.md",
-    "Reference.md",
     "C++ 20 CheckList"
   ]
 }

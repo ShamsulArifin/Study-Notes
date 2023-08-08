@@ -1,7 +1,7 @@
 
 Reference | Pointers
 ------------ | ------------
-Don't use [[dereferencing]] for reading and writing | Must go through dereferencing operator to read/write through pointed value
+Don't use [[dereference]] for reading and writing | Must go through dereferencing operator to read/write through pointed value
 Can't be changed to reference something else | Can be changed to point somewhere else
 Must be initialized at declaration | Can be declared un-initialized (will contain [[Garbage Addresses]])
 

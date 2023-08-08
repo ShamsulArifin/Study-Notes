@@ -11,8 +11,15 @@
 		{"type":"file","file":"Character Manipulation And Strings/Introducing std string.md","id":"7d6b0830cf61927b","x":800,"y":-1160,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Character Manipulation And Strings/Declaring And Using std string.md","id":"cf118ad445cffd4a","x":1320,"y":-1160,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Character Manipulation And Strings/Character Manipulation.md","id":"427ebb22ea3c381f","x":-720,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Functions/One Definition Rule.md","id":"5c3d23618e168728","x":1920,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Functions/First Hand On Functions.md","id":"ca999441e1d9d763","x":2440,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Functions/Function Declaration & Definition.md","id":"8644b4407498e8fc","x":2960,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Functions/Functions Across Multiple Files - Compilation Model Revisited.md","id":"2525e1e4c61197d9","x":3480,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Functions/Pass By Value.md","id":"4a99fed1b2057d7a","x":4000,"y":-1160,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Functions/Functions.md","id":"6fda5985636e4c3e","x":1920,"y":-1840,"width":400,"height":400,"color":"5"},
-		{"type":"file","file":"Functions/One Definition Rule.md","id":"5c3d23618e168728","x":1920,"y":-1160,"width":400,"height":400,"color":"4"}
+		{"type":"file","file":"Functions/Function Processing.canvas","id":"a9b7c405a1dba5f4","x":4520,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Functions/Pass By Pointer.md","id":"6ef620a839a09789","x":5040,"y":-1160,"width":400,"height":400,"color":"4"},
+		{"id":"05c16407f348a268","x":5560,"y":-1160,"width":400,"height":400,"color":"4","type":"file","file":"Functions/Pass By Reference.md"}
 	],
 	"edges":[
 		{"id":"b3f5a61aad1b3f56","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"0fb2fa142adce262","toSide":"top"},
@@ -26,6 +33,13 @@
 		{"id":"4a2cd8b7084ee9c1","fromNode":"260b559733487be3","fromSide":"bottom","toNode":"cf118ad445cffd4a","toSide":"top"},
 		{"id":"f588539aec51ef2e","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"6fda5985636e4c3e","toSide":"top"},
 		{"id":"78fa5073a0486ae1","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"5c3d23618e168728","toSide":"top"},
-		{"id":"ebcc73581757ecaf","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"260b559733487be3","toSide":"top"}
+		{"id":"ebcc73581757ecaf","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"260b559733487be3","toSide":"top"},
+		{"id":"e43bec546cb9695d","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"ca999441e1d9d763","toSide":"top"},
+		{"id":"177453fe86b49a8e","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"8644b4407498e8fc","toSide":"top"},
+		{"id":"5271af43f02fed80","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"2525e1e4c61197d9","toSide":"top"},
+		{"id":"638bfd2174c6a74f","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"4a99fed1b2057d7a","toSide":"top"},
+		{"id":"109163a4c392c805","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"a9b7c405a1dba5f4","toSide":"top"},
+		{"id":"a151d7896595601d","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"6ef620a839a09789","toSide":"top"},
+		{"id":"739958ea83582b31","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"05c16407f348a268","toSide":"top"}
 	]
 }

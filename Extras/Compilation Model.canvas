@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"group","id":"41ce5aec2ad07f80","x":149,"y":-175,"width":1431,"height":285,"color":"5","label":"Compiler"},
+		{"type":"text","text":"Source","id":"3c3b5b00f57c7e53","x":180,"y":-140,"width":120,"height":60,"color":"4"},
+		{"type":"text","text":"Translation Units","id":"22596f87997ab85f","x":660,"y":-140,"width":145,"height":60,"color":"5"},
+		{"type":"text","text":"Translation Units","id":"a718d97d8ec0094b","x":660,"y":20,"width":145,"height":60,"color":"5"},
+		{"type":"text","text":"Compilation","id":"190b16f90719cb6a","x":900,"y":-60,"width":165,"height":60,"color":"#243dff"},
+		{"type":"text","text":"Object","id":"bae49c9d946a0d21","x":1160,"y":-140,"width":145,"height":60},
+		{"type":"text","text":"Object","id":"d534bb17a5b5b485","x":1160,"y":20,"width":145,"height":60},
+		{"type":"text","text":"Program files","id":"cfa2a520c02b9705","x":-200,"y":-60,"width":183,"height":60,"color":"4"},
+		{"type":"text","text":"Linker","id":"0a6cd3c30d12c7d5","x":1440,"y":-60,"width":119,"height":60,"color":"#243dff"},
+		{"type":"text","text":"Source","id":"13e8b4ef97be6f06","x":180,"y":20,"width":120,"height":60,"color":"4"},
+		{"type":"text","text":"Preprocessing","id":"0c43e225a989e3ed","x":400,"y":-60,"width":165,"height":60,"color":"#243dff"},
+		{"type":"text","text":"Binary Executable","id":"0f4e4c819d844c81","x":1680,"y":-60,"width":140,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"8c892e9e3b6431e7","fromNode":"3c3b5b00f57c7e53","fromSide":"right","toNode":"0c43e225a989e3ed","toSide":"left"},
+		{"id":"79a60a9d69551fd2","fromNode":"13e8b4ef97be6f06","fromSide":"right","toNode":"0c43e225a989e3ed","toSide":"left"},
+		{"id":"ea68dbb322600a09","fromNode":"0c43e225a989e3ed","fromSide":"right","toNode":"22596f87997ab85f","toSide":"left"},
+		{"id":"a81b89aa22d3881f","fromNode":"0c43e225a989e3ed","fromSide":"right","toNode":"a718d97d8ec0094b","toSide":"left"},
+		{"id":"30c34dba08f2b2b3","fromNode":"22596f87997ab85f","fromSide":"right","toNode":"190b16f90719cb6a","toSide":"left"},
+		{"id":"5608f162b9b15977","fromNode":"a718d97d8ec0094b","fromSide":"right","toNode":"190b16f90719cb6a","toSide":"left"},
+		{"id":"189fbd67178d10dc","fromNode":"190b16f90719cb6a","fromSide":"right","toNode":"bae49c9d946a0d21","toSide":"left"},
+		{"id":"0554936b8b7480c7","fromNode":"190b16f90719cb6a","fromSide":"right","toNode":"d534bb17a5b5b485","toSide":"left"},
+		{"id":"64135afdca0fe868","fromNode":"cfa2a520c02b9705","fromSide":"right","toNode":"41ce5aec2ad07f80","toSide":"left"},
+		{"id":"135a94c0dabeed7e","fromNode":"bae49c9d946a0d21","fromSide":"right","toNode":"0a6cd3c30d12c7d5","toSide":"left"},
+		{"id":"6752bd8d6a7768ce","fromNode":"d534bb17a5b5b485","fromSide":"right","toNode":"0a6cd3c30d12c7d5","toSide":"left"},
+		{"id":"1e385ef42c0fff99","fromNode":"41ce5aec2ad07f80","fromSide":"right","toNode":"0f4e4c819d844c81","toSide":"left"}
+	]
+}
