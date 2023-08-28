@@ -62,14 +62,11 @@
             "id": "5ff50af8b6c60dfb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Game Engine.canvas",
-                "viewState": {
-                  "x": 133.6444091796875,
-                  "y": 231.13897705078125,
-                  "zoom": 0
-                }
+                "file": "C++ 20 CheckList/C++ 20.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -141,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Engine.canvas",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Engine.canvas",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Engine.canvas"
+                "file": "C++ 20 CheckList/C++ 20.md"
               }
             }
           },
@@ -220,11 +217,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fcbf6215e0ccb206",
+  "active": "5ff50af8b6c60dfb",
   "lastOpenFiles": [
+    "Game Engine.canvas",
     "VR/VR Development.md",
     "VR",
-    "Game Engine.canvas",
     "C++ 20 CheckList/C++ 20.md",
     "Functions/Function Templates/Trying Out Function Templates.md",
     "Extras/Websites.md",
@@ -257,7 +254,6 @@
     "Functions/Getting Things Out of Functions",
     "Functions/Pass By Reference.md",
     "Functions/Pass By Pointer.md",
-    "Extras/dereference.md",
     "Extras/Compilation Model.canvas",
     "Extras",
     "Functions",
