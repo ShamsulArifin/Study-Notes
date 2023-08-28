@@ -220,8 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ff50af8b6c60dfb",
+  "active": "fcbf6215e0ccb206",
   "lastOpenFiles": [
+    "VR/VR Development.md",
+    "VR",
     "Game Engine.canvas",
     "C++ 20 CheckList/C++ 20.md",
     "Functions/Function Templates/Trying Out Function Templates.md",
@@ -260,7 +262,6 @@
     "Extras",
     "Functions",
     "Character Manipulation And Strings",
-    "References",
-    "C++ 20 CheckList"
+    "References"
   ]
 }
