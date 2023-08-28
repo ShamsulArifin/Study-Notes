@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"0abc83cfedb9a10c","x":-460,"y":-100,"width":1080,"height":520,"color":"#ff0000","type":"group","label":"Game Engine"},
+		{"id":"a77d5022f09e3573","x":-440,"y":-80,"width":170,"height":120,"color":"#662e00","type":"text","text":"Linear Algebra\nVector\nMatrix"},
+		{"id":"30c1876ff1164f9e","x":-180,"y":-50,"width":100,"height":60,"color":"3","type":"text","text":"C++"},
+		{"id":"8670d8d5b7562a09","x":-40,"y":-50,"width":140,"height":60,"color":"5","type":"text","text":"Math Engine"},
+		{"id":"a1cd97169b52498f","x":180,"y":70,"width":161,"height":60,"color":"5","type":"text","text":"Render Engine"},
+		{"id":"693c5ef66a2eef5f","x":-192,"y":70,"width":124,"height":60,"color":"3","type":"text","text":"OpenGL"},
+		{"id":"08efb2da134514f8","x":-211,"y":179,"width":162,"height":60,"color":"#662e00","type":"text","text":"Design Pattern"},
+		{"id":"769d5b83c3f7a6a1","x":91,"y":215,"width":250,"height":60,"color":"#662e00","type":"text","text":" Newton's Laws of Motion"},
+		{"id":"83692f8e78878e32","x":91,"y":340,"width":250,"height":60,"color":"#662e00","type":"text","text":"Computational Geometry Algorithms"},
+		{"id":"42956138fdc87b6b","x":447,"y":221,"width":153,"height":60,"color":"5","type":"text","text":"Physics Engine"}
+	],
+	"edges":[
+		{"id":"baf1e3792b6c3e01","fromNode":"a77d5022f09e3573","fromSide":"right","toNode":"30c1876ff1164f9e","toSide":"left"},
+		{"id":"3a8242d4809d2dc8","fromNode":"30c1876ff1164f9e","fromSide":"right","toNode":"8670d8d5b7562a09","toSide":"left"},
+		{"id":"2e598426024c9f9b","fromNode":"693c5ef66a2eef5f","fromSide":"right","toNode":"a1cd97169b52498f","toSide":"left"},
+		{"id":"44f78c302063c01b","fromNode":"8670d8d5b7562a09","fromSide":"right","toNode":"a1cd97169b52498f","toSide":"left"},
+		{"id":"12ecc590db408a2b","fromNode":"08efb2da134514f8","fromSide":"right","toNode":"a1cd97169b52498f","toSide":"left"},
+		{"id":"dcc15e167074c03a","fromNode":"a1cd97169b52498f","fromSide":"right","toNode":"42956138fdc87b6b","toSide":"left"},
+		{"id":"e5850ac42fe23b42","fromNode":"769d5b83c3f7a6a1","fromSide":"right","toNode":"42956138fdc87b6b","toSide":"left"},
+		{"id":"22c5ee282df7b9d8","fromNode":"83692f8e78878e32","fromSide":"right","toNode":"42956138fdc87b6b","toSide":"left"}
+	]
+}
