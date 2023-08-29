@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": "#188f00",
+    "recentlyUsedIcons": [
+      "SiTemporal",
+      "RiAddCircleLine",
+      "TiLambda",
+      "TiStepOut",
+      "TiBrandStackoverflow"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Functions": "RiFunctions",
+  "References": "RiArrowLeftRightLine",
+  "Variables and Data Types": "TiVariable",
+  "Character Manipulation And Strings": "TiAlpha",
+  "Extras": "TiExternalLink",
+  "C++ 20 CheckList": "LiCheckSquare",
+  "Functions/Function Overloading": "TiBrandStackoverflow",
+  "Functions/Getting Things Out of Functions": "TiStepOut",
+  "Functions/Lambda Functions": "TiLambda",
+  "Functions/Function Templates": "SiTemporal"
+}

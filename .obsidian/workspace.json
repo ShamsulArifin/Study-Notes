@@ -4,22 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "0797703960bb63f8",
+        "id": "8bc76551d4563ede",
         "type": "tabs",
         "children": [
           {
-            "id": "5c37dfe3526a9732",
+            "id": "65df7d9bcf630980",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions/Functions.md",
+                "file": "Functions/Function Templates/Function Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d18a82d251839321",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "C++ 20 CheckList/Overview.canvas",
+                "viewState": {
+                  "x": 3983.8802427667583,
+                  "y": 952.5805259688238,
+                  "zoom": -3.5293302469035672
+                }
+              }
+            }
+          },
+          {
+            "id": "2ece1f00449f653b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Function Templates/Trying Out Function Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5fbe2ba2b9d256b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ 20 CheckList/C++ 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ff50af8b6c60dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -33,22 +85,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4361f35bd672e97",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "6fafe646ddf0492e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "compiler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +106,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "fcbf6215e0ccb206",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.50580978393555
   },
   "right": {
     "id": "217a862a67823638",
@@ -85,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/Functions.md",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions/Functions.md",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +178,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions/Functions.md"
+                "file": "C++ 20 CheckList/C++ 20.md"
               }
+            }
+          },
+          {
+            "id": "28d1c57c2c3fdb2f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "30f6ef82a9dc04e1",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -143,44 +212,52 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5c37dfe3526a9732",
+  "active": "5ff50af8b6c60dfb",
   "lastOpenFiles": [
-    "Functions/One Definition Rule.md",
-    "Functions/Functions.md",
-    "C++ 20 CheckList/Overview.canvas",
-    "C++ 20 CheckList/C++ 20.md",
+    "Game Engine.canvas",
     "VR/VR Development.md",
     "VR",
+    "C++ 20 CheckList/C++ 20.md",
+    "Functions/Function Templates/Trying Out Function Templates.md",
+    "Extras/Websites.md",
+    "Extras/Compiler.md",
+    "Functions/Function Templates/Function Templates.md",
+    "References/References And Const.md",
+    "Character Manipulation And Strings/Character Manipulation And Strings.md",
+    "C++ 20 CheckList/Overview.canvas",
+    "Untitled Diagram.svg",
+    "Functions/Lambda Functions/Capture All In Context.md",
+    "Functions/Function Templates",
+    "Functions/Lambda Functions/Lambda Functions.md",
+    "Functions/Lambda Functions/Capture Lists.md",
+    "Functions/Function Processing.canvas",
+    "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
+    "Functions/Untitled Kanban.md",
+    "Functions/Function Overloading/Overloading With Different Parameters.md",
+    "Functions/Functions.md",
+    "Functions/Function Declaration & Definition.md",
+    "2023-08-14.md",
+    "Functions/Lambda Functions",
+    "Functions/Function Overloading/Function Overloading.md",
+    "Functions/Function Overloading",
+    "Functions/Getting Things Out of Functions/Returning From Functions.md",
+    "Functions/Getting Things Out of Functions/Getting Things Out Of Functions.md",
+    "Functions/Getting Things Out of Functions/Input And Output Parameters.md",
+    "Extras/output.md",
+    "Variables and Data Types/variable.md",
+    "Variables and Data Types",
+    "Functions/Getting Things Out of Functions",
     "Functions/Pass By Reference.md",
     "Functions/Pass By Pointer.md",
-    "Extras/dereference.md",
-    "Extras/variable.md",
-    "vairable.md",
-    "Functions/Pass By Value.md",
-    "References/Comparing Pointers And References.md",
-    "Extras/reference.md",
-    "References/References And Const.md",
-    "References/References.md",
-    "References/Declaring And Using References.md",
-    "Extras/pointer.md",
-    "Functions/Function Processing.canvas",
-    "Functions/Functions Across Multiple Files - Compilation Model Revisited.md",
     "Extras/Compilation Model.canvas",
-    "Functions/Function Declaration & Definition.md",
-    "Extras/Translation units.md",
-    "Functions/First Hand On Functions.md",
-    "Extras/character.md",
-    "Character Manipulation And Strings/Character Manipulation.md",
     "Extras",
     "Functions",
     "Character Manipulation And Strings",
-    "References",
-    "Function Processing.md",
-    "Extras/input.md",
-    "Extras/output.md",
-    "C++ 20 CheckList"
+    "References"
   ]
 }
