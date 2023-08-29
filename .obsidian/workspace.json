@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VR/VR Development.md",
+                "file": "Functions/Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VR/VR Development.md",
+                "file": "Functions/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VR/VR Development.md",
+                "file": "Functions/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VR/VR Development.md"
+                "file": "Functions/Functions.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "5c37dfe3526a9732",
   "lastOpenFiles": [
+    "Functions/One Definition Rule.md",
+    "Functions/Functions.md",
+    "C++ 20 CheckList/Overview.canvas",
+    "C++ 20 CheckList/C++ 20.md",
     "VR/VR Development.md",
     "VR",
     "Functions/Pass By Reference.md",
-    "C++ 20 CheckList/C++ 20.md",
-    "C++ 20 CheckList/Overview.canvas",
     "Functions/Pass By Pointer.md",
     "Extras/dereference.md",
     "Extras/variable.md",
@@ -164,7 +166,6 @@
     "References/References.md",
     "References/Declaring And Using References.md",
     "Extras/pointer.md",
-    "Functions/Functions.md",
     "Functions/Function Processing.canvas",
     "Functions/Functions Across Multiple Files - Compilation Model Revisited.md",
     "Extras/Compilation Model.canvas",
@@ -180,8 +181,6 @@
     "Function Processing.md",
     "Extras/input.md",
     "Extras/output.md",
-    "Functions/One Definition Rule.md",
-    "Character Manipulation And Strings/Declaring And Using std string.md",
     "C++ 20 CheckList"
   ]
 }
