@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "Variables and Data Types/variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "Variables and Data Types/variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "Variables and Data Types/variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md"
+                "file": "Variables and Data Types/variable.md"
               }
             }
           },
@@ -219,24 +219,25 @@
   },
   "active": "5ff50af8b6c60dfb",
   "lastOpenFiles": [
-    "Game Engine.canvas",
     "VR/VR Development.md",
-    "VR",
-    "C++ 20 CheckList/C++ 20.md",
-    "Functions/Function Templates/Trying Out Function Templates.md",
+    "Game Engine.canvas",
     "Extras/Websites.md",
+    "C++ 20 CheckList/C++ 20.md",
+    "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
+    "Functions/Pass By Pointer.md",
+    "Functions/Lambda Functions/Capture All In Context.md",
+    "C++ 20 CheckList/Overview.canvas",
+    "VR",
+    "Functions/Function Templates/Trying Out Function Templates.md",
     "Extras/Compiler.md",
     "Functions/Function Templates/Function Templates.md",
     "References/References And Const.md",
     "Character Manipulation And Strings/Character Manipulation And Strings.md",
-    "C++ 20 CheckList/Overview.canvas",
     "Untitled Diagram.svg",
-    "Functions/Lambda Functions/Capture All In Context.md",
     "Functions/Function Templates",
     "Functions/Lambda Functions/Lambda Functions.md",
     "Functions/Lambda Functions/Capture Lists.md",
     "Functions/Function Processing.canvas",
-    "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
     "Functions/Untitled Kanban.md",
     "Functions/Function Overloading/Overloading With Different Parameters.md",
     "Functions/Functions.md",
@@ -253,7 +254,6 @@
     "Variables and Data Types",
     "Functions/Getting Things Out of Functions",
     "Functions/Pass By Reference.md",
-    "Functions/Pass By Pointer.md",
     "Extras/Compilation Model.canvas",
     "Extras",
     "Functions",

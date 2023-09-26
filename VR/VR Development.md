@@ -1,1 +1,2 @@
-Will add VR development related documentation here
+- Actors can't receive input from controllers. Only pawns can receive input from controllers
+- 
