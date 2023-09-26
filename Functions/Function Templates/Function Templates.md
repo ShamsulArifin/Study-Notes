@@ -4,4 +4,7 @@
 
 
 - [[Trying Out Function Templates]]
+- [[Template Type Deduction And Explicit Arguments]]
+- [[Template Type Parameters By Reference]]
+- [[Template Specialization]]
 - 

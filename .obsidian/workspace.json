@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65df7d9bcf630980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/Function Templates/Function Templates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d18a82d251839321",
             "type": "leaf",
             "state": {
@@ -27,27 +15,15 @@
               "state": {
                 "file": "C++ 20 CheckList/Overview.canvas",
                 "viewState": {
-                  "x": 3983.8802427667583,
-                  "y": 952.5805259688238,
-                  "zoom": -3.5293302469035672
+                  "x": 4501.664827456061,
+                  "y": 296.02085628915995,
+                  "zoom": -1.0293302469035672
                 }
               }
             }
           },
           {
-            "id": "2ece1f00449f653b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/Function Templates/Trying Out Function Templates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5fbe2ba2b9d256b",
+            "id": "f3fa069cced2259e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,19 +35,39 @@
             }
           },
           {
-            "id": "5ff50af8b6c60dfb",
+            "id": "cf80afcc5b577c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variables and Data Types/variable.md",
+                "file": "Functions/Function Templates/Function Templates.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbe1ad73c3836dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Function Templates/Template Specialization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90e2bc54dd327925",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables and Data Types/variable.md",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables and Data Types/variable.md",
+                "file": "C++ 20 CheckList/C++ 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variables and Data Types/variable.md"
+                "file": "C++ 20 CheckList/C++ 20.md"
               }
             }
           },
@@ -217,20 +213,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ff50af8b6c60dfb",
+  "active": "f3fa069cced2259e",
   "lastOpenFiles": [
+    "Functions/Function Templates/Template Specialization.md",
+    "C++ 20 CheckList/C++ 20.md",
+    "C++ 20 CheckList/Overview.canvas",
+    "Functions/Function Templates/Function Templates.md",
+    "Functions/Function Templates/Template Type Parameters By Reference.md",
+    "Extras/Compilation Model.canvas",
+    "Functions/First Hand On Functions.md",
+    "Functions/Function Templates/Template Type Deduction And Explicit Arguments.md",
+    "Functions/Function Templates/Trying Out Function Templates.md",
+    "Character Manipulation And Strings/C-String Concatenation And Copying.md",
+    "Variables and Data Types/variable.md",
     "VR/VR Development.md",
     "Game Engine.canvas",
     "Extras/Websites.md",
-    "C++ 20 CheckList/C++ 20.md",
     "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
     "Functions/Pass By Pointer.md",
     "Functions/Lambda Functions/Capture All In Context.md",
-    "C++ 20 CheckList/Overview.canvas",
     "VR",
-    "Functions/Function Templates/Trying Out Function Templates.md",
     "Extras/Compiler.md",
-    "Functions/Function Templates/Function Templates.md",
     "References/References And Const.md",
     "Character Manipulation And Strings/Character Manipulation And Strings.md",
     "Untitled Diagram.svg",
@@ -246,15 +249,8 @@
     "Functions/Lambda Functions",
     "Functions/Function Overloading/Function Overloading.md",
     "Functions/Function Overloading",
-    "Functions/Getting Things Out of Functions/Returning From Functions.md",
-    "Functions/Getting Things Out of Functions/Getting Things Out Of Functions.md",
-    "Functions/Getting Things Out of Functions/Input And Output Parameters.md",
-    "Extras/output.md",
-    "Variables and Data Types/variable.md",
     "Variables and Data Types",
     "Functions/Getting Things Out of Functions",
-    "Functions/Pass By Reference.md",
-    "Extras/Compilation Model.canvas",
     "Extras",
     "Functions",
     "Character Manipulation And Strings",

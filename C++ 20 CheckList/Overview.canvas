@@ -30,7 +30,10 @@
 		{"type":"file","file":"Functions/Lambda Functions/Capture Lists.md","id":"435f13c661cfb69b","x":3037,"y":320,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Functions/Lambda Functions/Capture All In Context.md","id":"bc17040f74031bcf","x":3557,"y":320,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Functions/Function Templates/Function Templates.md","id":"9e3d18fd381faaf6","x":3480,"y":-280,"width":400,"height":400,"color":"5"},
-		{"id":"f35efa53683ebdcf","x":4080,"y":320,"width":400,"height":400,"color":"4","type":"file","file":"Functions/Function Templates/Trying Out Function Templates.md"}
+		{"type":"file","file":"Functions/Function Templates/Trying Out Function Templates.md","id":"f35efa53683ebdcf","x":4080,"y":320,"width":400,"height":400,"color":"4"},
+		{"id":"691dc8fd4956360f","type":"file","file":"Functions/Function Templates/Template Type Deduction And Explicit Arguments.md","x":4600,"y":320,"width":400,"height":400,"color":"4"},
+		{"id":"953b41be780eeeb2","x":5120,"y":320,"width":400,"height":400,"color":"4","type":"file","file":"Functions/Function Templates/Template Type Parameters By Reference.md"},
+		{"id":"e4d38220cbece740","x":5640,"y":320,"width":400,"height":400,"color":"4","type":"file","file":"Functions/Function Templates/Template Specialization.md"}
 	],
 	"edges":[
 		{"id":"b3f5a61aad1b3f56","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"0fb2fa142adce262","toSide":"top"},
@@ -62,6 +65,9 @@
 		{"id":"1add9f741bfa53c9","fromNode":"975fb9fbc54734b9","fromSide":"bottom","toNode":"435f13c661cfb69b","toSide":"top"},
 		{"id":"3e3135bd91e7529a","fromNode":"975fb9fbc54734b9","fromSide":"bottom","toNode":"bc17040f74031bcf","toSide":"top"},
 		{"id":"16498187688076df","fromNode":"6fda5985636e4c3e","fromSide":"bottom","toNode":"9e3d18fd381faaf6","toSide":"top"},
-		{"id":"5531cf8c89c5a8cd","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"f35efa53683ebdcf","toSide":"top"}
+		{"id":"5531cf8c89c5a8cd","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"f35efa53683ebdcf","toSide":"top"},
+		{"id":"4ba1be92816d32ea","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"691dc8fd4956360f","toSide":"top"},
+		{"id":"4362b2907242e73d","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"953b41be780eeeb2","toSide":"top"},
+		{"id":"d792e05bd1525e4e","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"e4d38220cbece740","toSide":"top"}
 	]
 }
