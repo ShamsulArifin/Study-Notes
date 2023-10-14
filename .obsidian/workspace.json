@@ -8,51 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d18a82d251839321",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "C++ 20 CheckList/Overview.canvas",
-                "viewState": {
-                  "x": 4501.664827456061,
-                  "y": 296.02085628915995,
-                  "zoom": -1.0293302469035672
-                }
-              }
-            }
-          },
-          {
             "id": "f3fa069cced2259e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "Concepts/Using Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf80afcc5b577c57",
+            "id": "263d18b1ccd2f435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions/Function Templates/Function Templates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbe1ad73c3836dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/Function Templates/Template Specialization.md",
+                "file": "Concepts/Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,9 +38,23 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d18a82d251839321",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "C++ 20 CheckList/Overview.canvas",
+                "viewState": {
+                  "x": -197.70976701019526,
+                  "y": -787.4319142010199,
+                  "zoom": -2.893871649138657
+                }
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "Concepts/Using Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md",
+                "file": "Concepts/Using Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ 20 CheckList/C++ 20.md"
+                "file": "Concepts/Using Concepts.md"
               }
             }
           },
@@ -199,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +202,13 @@
   },
   "active": "f3fa069cced2259e",
   "lastOpenFiles": [
+    "Concepts/Concepts.md",
     "Functions/Function Templates/Template Specialization.md",
+    "Concepts/Using Concepts.md",
     "C++ 20 CheckList/C++ 20.md",
     "C++ 20 CheckList/Overview.canvas",
     "Functions/Function Templates/Function Templates.md",
+    "Concepts",
     "Functions/Function Templates/Template Type Parameters By Reference.md",
     "Extras/Compilation Model.canvas",
     "Functions/First Hand On Functions.md",
@@ -247,13 +237,11 @@
     "Functions/Function Declaration & Definition.md",
     "2023-08-14.md",
     "Functions/Lambda Functions",
-    "Functions/Function Overloading/Function Overloading.md",
     "Functions/Function Overloading",
     "Variables and Data Types",
     "Functions/Getting Things Out of Functions",
     "Extras",
     "Functions",
-    "Character Manipulation And Strings",
-    "References"
+    "Character Manipulation And Strings"
   ]
 }
