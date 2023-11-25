@@ -13,7 +13,7 @@
 		{"type":"file","file":"Functions/Getting Things Out of Functions/Input And Output Parameters.md","id":"575fe35679ef4afa","x":-2037,"y":440,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Functions/Getting Things Out of Functions/Returning From Functions.md","id":"7cb8a130f69cbe35","x":-1560,"y":440,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Functions/Function Overloading/Overloading With Different Parameters.md","id":"2dd7cd9b38b89a3a","x":-1080,"y":440,"width":400,"height":400,"color":"4"},
-		{"id":"6778136e1ddfe15c","x":2603,"y":-960,"width":400,"height":400,"color":"5","type":"file","file":"Concepts/Concepts.md"},
+		{"id":"6778136e1ddfe15c","type":"file","file":"Concepts/Concepts.md","x":2603,"y":-960,"width":400,"height":400,"color":"5"},
 		{"type":"file","file":"Functions/Function Templates/Template Specialization.md","id":"e4d38220cbece740","x":2563,"y":440,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Functions/Functions Across Multiple Files - Compilation Model Revisited.md","id":"2525e1e4c61197d9","x":2523,"y":-160,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Functions/Pass By Value.md","id":"4a99fed1b2057d7a","x":3043,"y":-160,"width":400,"height":400,"color":"4"},
@@ -34,7 +34,8 @@
 		{"type":"file","file":"Character Manipulation And Strings/C-String Concatenation And Copying.md","id":"e2ac17af821ae187","x":-2797,"y":-160,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"References/Comparing Pointers And References.md","id":"a4c83519132a12e6","x":-4797,"y":-160,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"References/References And Const.md","id":"7a32655c15b481e2","x":-4277,"y":-160,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"Character Manipulation And Strings/Character Manipulation.md","id":"427ebb22ea3c381f","x":-3797,"y":-160,"width":400,"height":400,"color":"4"}
+		{"type":"file","file":"Character Manipulation And Strings/Character Manipulation.md","id":"427ebb22ea3c381f","x":-3797,"y":-160,"width":400,"height":400,"color":"4"},
+		{"id":"ddf53833f7047520","x":5240,"y":-160,"width":400,"height":400,"color":"4","type":"file","file":"Concepts/Using Concepts.md"}
 	],
 	"edges":[
 		{"id":"b3f5a61aad1b3f56","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"0fb2fa142adce262","toSide":"top"},
@@ -70,6 +71,7 @@
 		{"id":"4ba1be92816d32ea","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"691dc8fd4956360f","toSide":"top"},
 		{"id":"4362b2907242e73d","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"953b41be780eeeb2","toSide":"top"},
 		{"id":"d792e05bd1525e4e","fromNode":"9e3d18fd381faaf6","fromSide":"bottom","toNode":"e4d38220cbece740","toSide":"top"},
-		{"id":"0a206769caea96d0","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"6778136e1ddfe15c","toSide":"top"}
+		{"id":"0a206769caea96d0","fromNode":"2cd5a8f78399acc3","fromSide":"bottom","toNode":"6778136e1ddfe15c","toSide":"top"},
+		{"id":"335a73c20f4dcf0e","fromNode":"6778136e1ddfe15c","fromSide":"bottom","toNode":"ddf53833f7047520","toSide":"top"}
 	]
 }

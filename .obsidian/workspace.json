@@ -35,26 +35,31 @@
             "id": "90e2bc54dd327925",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Compilation Steps (Unreal Engine).canvas",
+                "viewState": {
+                  "x": -69.54916636149089,
+                  "y": 265.0527051289876,
+                  "zoom": -0.029747343394052068
+                }
+              }
             }
           },
           {
             "id": "d18a82d251839321",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C++ 20 CheckList/Overview.canvas",
-                "viewState": {
-                  "x": -197.70976701019526,
-                  "y": -787.4319142010199,
-                  "zoom": -2.893871649138657
-                }
+                "file": "Concepts/Concepts Building Your Own.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.50580978393555
+    "width": 344.50580978393555
   },
   "right": {
     "id": "217a862a67823638",
@@ -121,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Using Concepts.md",
+                "file": "Compilation Steps (Unreal Engine).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Using Concepts.md",
+                "file": "Compilation Steps (Unreal Engine).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Using Concepts.md"
+                "file": "Compilation Steps (Unreal Engine).canvas"
               }
             }
           },
@@ -200,13 +205,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3fa069cced2259e",
+  "active": "90e2bc54dd327925",
   "lastOpenFiles": [
-    "Concepts/Concepts.md",
-    "Functions/Function Templates/Template Specialization.md",
+    "VR/VR C++ Course/Basic Controller Movement.md",
+    "Compilation Steps (Unreal Engine).canvas",
+    "VR/VR Development.md",
     "Concepts/Using Concepts.md",
+    "VR/VR C++ Course",
+    "Concepts/Concepts.md",
+    "Concepts/Concepts Building Your Own.md",
     "C++ 20 CheckList/C++ 20.md",
     "C++ 20 CheckList/Overview.canvas",
+    "Functions/Function Templates/Template Specialization.md",
     "Functions/Function Templates/Function Templates.md",
     "Concepts",
     "Functions/Function Templates/Template Type Parameters By Reference.md",
@@ -216,7 +226,6 @@
     "Functions/Function Templates/Trying Out Function Templates.md",
     "Character Manipulation And Strings/C-String Concatenation And Copying.md",
     "Variables and Data Types/variable.md",
-    "VR/VR Development.md",
     "Game Engine.canvas",
     "Extras/Websites.md",
     "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
@@ -233,15 +242,11 @@
     "Functions/Function Processing.canvas",
     "Functions/Untitled Kanban.md",
     "Functions/Function Overloading/Overloading With Different Parameters.md",
-    "Functions/Functions.md",
-    "Functions/Function Declaration & Definition.md",
-    "2023-08-14.md",
     "Functions/Lambda Functions",
     "Functions/Function Overloading",
     "Variables and Data Types",
     "Functions/Getting Things Out of Functions",
     "Extras",
-    "Functions",
-    "Character Manipulation And Strings"
+    "Functions"
   ]
 }
