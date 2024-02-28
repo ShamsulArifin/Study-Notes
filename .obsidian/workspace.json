@@ -178,6 +178,14 @@
   },
   "active": "c4fdb1ab47e6be92",
   "lastOpenFiles": [
+    "VR/VR C++ Course/Basic Controller Movement.md",
+    "VR/VR C++ Course",
+    "UWorld.canvas",
+    "Concepts/Using Concepts.md",
+    "Concepts/Concepts Building Your Own.md",
+    "Concepts/Concepts.md",
+    "Concepts",
+    "Compilation Steps (Unreal Engine).canvas",
     "Extras/output.md",
     "Functions/Functions.md",
     "Core Class Hierarchy.canvas",
@@ -205,11 +213,7 @@
     "Extras/Websites.md",
     "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
     "Functions/Pass By Pointer.md",
-    "Functions/Lambda Functions/Capture All In Context.md",
     "VR",
-    "Extras/Compiler.md",
-    "References/References And Const.md",
-    "Character Manipulation And Strings/Character Manipulation And Strings.md",
     "Untitled Diagram.svg",
     "Functions/Function Templates",
     "Functions/Function Processing.canvas",
@@ -218,8 +222,6 @@
     "Variables and Data Types",
     "Functions/Getting Things Out of Functions",
     "Extras",
-    "Functions",
-    "Character Manipulation And Strings",
-    "References"
+    "Functions"
   ]
 }

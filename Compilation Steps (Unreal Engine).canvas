@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"a1ac2632acaed73d","type":"group","x":-612,"y":340,"width":685,"height":320,"color":"2","label":"Preprocessor"},
+		{"id":"80f19b11df5d4b21","type":"group","x":-224,"y":-200,"width":704,"height":200,"color":"#ffffff","label":"Standard C++ Compilation"},
+		{"id":"f62536d0b6d2b762","type":"group","x":128,"y":340,"width":161,"height":320,"color":"6","label":"Compiler"},
+		{"id":"0d9c3236b45007f2","type":"group","x":-412,"y":400,"width":240,"height":140,"color":"5","label":"game.cpp"},
+		{"id":"95ae6d3a0425d6ad","type":"group","x":348,"y":440,"width":170,"height":158,"color":"3","label":"Linker"},
+		{"id":"bf8c523a707c9aba","type":"text","text":"Preprocessor","x":-204,"y":-133,"width":164,"height":60,"color":"#57797f"},
+		{"id":"c1ecf24d7edcb170","type":"text","text":"Compiler","x":100,"y":-133,"width":146,"height":60,"color":"#57797f"},
+		{"id":"d606c44f57753c18","type":"text","text":"Linker","x":339,"y":-133,"width":101,"height":60,"color":"#57797f"},
+		{"id":"160e2dc1de058682","type":"text","text":"Executable","x":322,"y":100,"width":136,"height":60,"color":"#ffffff"},
+		{"id":"ea56ce5938e31404","type":"text","text":"Your Code","x":-473,"y":-320,"width":140,"height":60,"color":"#ffffff"},
+		{"id":"1cd855349c449966","type":"text","text":"Unreal Header Tool","x":-500,"y":-133,"width":195,"height":60,"color":"5"},
+		{"id":"00c6b822473aa3ad","type":"text","text":"math.cpp","x":-592,"y":417,"width":130,"height":61,"color":"4"},
+		{"id":"39aa28acf145e622","type":"text","text":"math.h","x":-372,"y":422,"width":113,"height":51,"color":"#ffffff"},
+		{"id":"fbe59cf9209b2909","type":"text","text":"math.i","x":-60,"y":580,"width":113,"height":60,"color":"#ffffff"},
+		{"id":"5f06716594b0f980","type":"text","text":"game.i","x":-52,"y":417,"width":105,"height":60,"color":"#ffffff"},
+		{"id":"3a4c8d778edf9770","type":"text","text":"game.obj","x":144,"y":418,"width":125,"height":60},
+		{"id":"5955285039701006","type":"text","text":"math.obj","x":144,"y":580,"width":125,"height":60},
+		{"id":"4e6558dd269f9bdb","type":"text","text":"game.exe","x":374,"y":491,"width":124,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"11ac47db0260a930","fromNode":"ea56ce5938e31404","fromSide":"bottom","toNode":"1cd855349c449966","toSide":"top"},
+		{"id":"012564c5d945a87e","fromNode":"1cd855349c449966","fromSide":"right","toNode":"bf8c523a707c9aba","toSide":"left"},
+		{"id":"8851ddc2b570c5c6","fromNode":"bf8c523a707c9aba","fromSide":"right","toNode":"c1ecf24d7edcb170","toSide":"left"},
+		{"id":"ccec64643f21c66f","fromNode":"c1ecf24d7edcb170","fromSide":"right","toNode":"d606c44f57753c18","toSide":"left"},
+		{"id":"d67a02b0094f69d0","fromNode":"d606c44f57753c18","fromSide":"bottom","toNode":"160e2dc1de058682","toSide":"top"},
+		{"id":"cec48d7b267ad963","fromNode":"00c6b822473aa3ad","fromSide":"right","toNode":"39aa28acf145e622","toSide":"left"},
+		{"id":"f7d9c3eb67f071b1","fromNode":"0d9c3236b45007f2","fromSide":"right","toNode":"5f06716594b0f980","toSide":"left"},
+		{"id":"9b4af412e7791ea8","fromNode":"39aa28acf145e622","fromSide":"right","toNode":"5f06716594b0f980","toSide":"left"},
+		{"id":"fbabd20d14c18e6b","fromNode":"00c6b822473aa3ad","fromSide":"bottom","toNode":"fbe59cf9209b2909","toSide":"left"},
+		{"id":"50d0de7c693c56f7","fromNode":"5f06716594b0f980","fromSide":"right","toNode":"3a4c8d778edf9770","toSide":"left"},
+		{"id":"8f3eb3853d878433","fromNode":"fbe59cf9209b2909","fromSide":"right","toNode":"5955285039701006","toSide":"left"},
+		{"id":"f99baebd828b0cad","fromNode":"3a4c8d778edf9770","fromSide":"right","toNode":"4e6558dd269f9bdb","toSide":"left"},
+		{"id":"87af11add6b5be6d","fromNode":"5955285039701006","fromSide":"right","toNode":"4e6558dd269f9bdb","toSide":"left"}
+	]
+}

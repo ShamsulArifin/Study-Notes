@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#188f00",
     "recentlyUsedIcons": [
+      "FabConnectdevelop",
       "SiTemporal",
       "RiAddCircleLine",
       "TiLambda",
-      "TiStepOut",
-      "TiBrandStackoverflow"
+      "TiStepOut"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,6 @@
   "Functions/Function Overloading": "TiBrandStackoverflow",
   "Functions/Getting Things Out of Functions": "TiStepOut",
   "Functions/Lambda Functions": "TiLambda",
-  "Functions/Function Templates": "SiTemporal"
+  "Functions/Function Templates": "SiTemporal",
+  "Concepts": "FabConnectdevelop"
 }
