@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Core Class Hierarchy.canvas",
+                "file": "The Actor Life Cycle.canvas",
                 "viewState": {
-                  "x": -214.5,
-                  "y": 11,
+                  "x": -42,
+                  "y": 8,
                   "zoom": 0
                 }
               }
@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "0807145b7a3732cf",
+            "id": "c9b1510cb917f10b",
             "type": "leaf",
             "state": {
               "type": "socrates-view",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Class Hierarchy.canvas",
+                "file": "The Actor Life Cycle.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Class Hierarchy.canvas",
+                "file": "The Actor Life Cycle.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Class Hierarchy.canvas"
+                "file": "The Actor Life Cycle.canvas"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "c4fdb1ab47e6be92",
   "lastOpenFiles": [
+    "Core Class Hierarchy.canvas",
+    "The Actor Life Cycle.canvas",
     "VR/VR C++ Course/Basic Controller Movement.md",
     "VR/VR C++ Course",
     "UWorld.canvas",
@@ -188,7 +190,6 @@
     "Compilation Steps (Unreal Engine).canvas",
     "Extras/output.md",
     "Functions/Functions.md",
-    "Core Class Hierarchy.canvas",
     "Game Engine.canvas",
     "Custom Viewport.md",
     "Game Instance & Game Instance Subsystem.md",
@@ -212,7 +213,6 @@
     "VR/VR Development.md",
     "Extras/Websites.md",
     "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
-    "Functions/Pass By Pointer.md",
     "VR",
     "Untitled Diagram.svg",
     "Functions/Function Templates",

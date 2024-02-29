@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"5a62a04507a2f43e","x":-200,"y":-113,"width":270,"height":97,"type":"text","text":"Animate\n"},
+		{"id":"6f509e0397f71c78","x":-180,"y":-53,"width":250,"height":53,"type":"text","text":"Tick(float deltaSeconds)"},
+		{"id":"4fe1c803761c1fbb","x":215,"y":-94,"width":250,"height":60,"type":"text","text":"Destroy"},
+		{"id":"63d17e030f7ac716","x":-540,"y":-94,"width":250,"height":60,"type":"text","text":"Initialize"}
+	],
+	"edges":[
+		{"id":"24d43eef8fba61dd","fromNode":"63d17e030f7ac716","fromSide":"right","toNode":"5a62a04507a2f43e","toSide":"left"},
+		{"id":"76372d862de4a6e6","fromNode":"5a62a04507a2f43e","fromSide":"right","toNode":"6f509e0397f71c78","toSide":"bottom"},
+		{"id":"a80d1ed5aebe9f3c","fromNode":"6f509e0397f71c78","fromSide":"bottom","toNode":"5a62a04507a2f43e","toSide":"right"},
+		{"id":"67f6ceef19f5ec27","fromNode":"5a62a04507a2f43e","fromSide":"right","toNode":"4fe1c803761c1fbb","toSide":"left"}
+	]
+}
