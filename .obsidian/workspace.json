@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP4300/Stack Memory.md",
+                "file": "COMP4300/Heap Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a132206718fc1239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP4300/C++ pointers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP4300/Stack Memory.md",
+                "file": "COMP4300/C++ pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP4300/Stack Memory.md",
+                "file": "COMP4300/C++ pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP4300/Stack Memory.md"
+                "file": "COMP4300/C++ pointers.md"
               }
             }
           },
@@ -165,8 +178,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98e43081606b4039",
+  "active": "a132206718fc1239",
   "lastOpenFiles": [
+    "COMP4300/Lecture 03.md",
+    "COMP4300/C++ pointers.md",
+    "COMP4300/COMP4300 Index.md",
+    "Extras/pointer.md",
+    "Functions/Pass By Pointer.md",
+    "COMP4300/Heap Memory.md",
+    "COMP4300/Stack Memory.md",
     "The Actor Life Cycle.canvas",
     "Session Interface Functions.md",
     "Realtime Product Configurator v1.1.md",
@@ -174,12 +194,8 @@
     "Game Instance & Game Instance Subsystem.md",
     "Custom Viewport.md",
     "Core Class Hierarchy.canvas",
-    "COMP4300/Stack Memory.md",
-    "COMP4300/Lecture 03.md",
     "C++ 20 CheckList/Overview.canvas",
     "C++ 20 CheckList/C++ 20.md",
-    "COMP4300/Heap Memory.md",
-    "COMP4300/COMP4300 Index.md",
     "COMP4300/Compile Time.md",
     "COMP4300/Local variables.md",
     "Stack.md",
@@ -200,8 +216,6 @@
     "Functions/Function Templates/Template Type Parameters By Reference.md",
     "Extras/Compilation Model.canvas",
     "Functions/First Hand On Functions.md",
-    "Functions/Function Templates/Template Type Deduction And Explicit Arguments.md",
-    "Functions/Function Templates/Trying Out Function Templates.md",
     "VR",
     "Untitled Diagram.svg",
     "Functions/Function Templates",

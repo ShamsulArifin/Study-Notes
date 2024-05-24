@@ -1,0 +1,2 @@
+- Same as [[pointer|pointers]] in C
+- A [[pointer]] stores memory addresses
