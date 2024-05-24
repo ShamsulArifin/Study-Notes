@@ -4,62 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8bc76551d4563ede",
+        "id": "8a7ffeed1317afa3",
         "type": "tabs",
         "children": [
           {
-            "id": "f3fa069cced2259e",
+            "id": "98e43081606b4039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Using Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "263d18b1ccd2f435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90e2bc54dd327925",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "UWorld.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "d18a82d251839321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Concepts Building Your Own.md",
+                "file": "COMP4300/Stack Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UWorld.canvas",
+                "file": "COMP4300/Stack Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UWorld.canvas",
+                "file": "COMP4300/Stack Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UWorld.canvas"
+                "file": "COMP4300/Stack Memory.md"
               }
             }
           },
@@ -187,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,18 +165,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90e2bc54dd327925",
+  "active": "98e43081606b4039",
   "lastOpenFiles": [
-    "Compilation Steps (Unreal Engine).canvas",
+    "COMP4300/Stack Memory.md",
+    "COMP4300/Lecture 03.md",
+    "C++ 20 CheckList/Overview.canvas",
+    "C++ 20 CheckList/C++ 20.md",
+    "COMP4300/Heap Memory.md",
+    "COMP4300/COMP4300 Index.md",
+    "COMP4300/Compile Time.md",
+    "COMP4300/Local variables.md",
+    "Stack.md",
+    "COMP4300",
+    "2024-05-24.md",
     "UWorld.canvas",
+    "Game Engine.canvas",
+    "Compilation Steps (Unreal Engine).canvas",
+    "Concepts/Concepts Building Your Own.md",
+    "Concepts/Using Concepts.md",
+    "Concepts/Concepts.md",
     "VR/VR C++ Course/Basic Controller Movement.md",
     "VR/VR Development.md",
-    "Concepts/Using Concepts.md",
     "VR/VR C++ Course",
-    "Concepts/Concepts.md",
-    "Concepts/Concepts Building Your Own.md",
-    "C++ 20 CheckList/C++ 20.md",
-    "C++ 20 CheckList/Overview.canvas",
     "Functions/Function Templates/Template Specialization.md",
     "Functions/Function Templates/Function Templates.md",
     "Concepts",
@@ -227,27 +197,17 @@
     "Functions/Function Templates/Trying Out Function Templates.md",
     "Character Manipulation And Strings/C-String Concatenation And Copying.md",
     "Variables and Data Types/variable.md",
-    "Game Engine.canvas",
     "Extras/Websites.md",
     "Functions/Lambda Functions/Declaring And Using Lambda Functions.md",
     "Functions/Pass By Pointer.md",
-    "Functions/Lambda Functions/Capture All In Context.md",
     "VR",
-    "Extras/Compiler.md",
-    "References/References And Const.md",
-    "Character Manipulation And Strings/Character Manipulation And Strings.md",
     "Untitled Diagram.svg",
     "Functions/Function Templates",
-    "Functions/Lambda Functions/Lambda Functions.md",
-    "Functions/Lambda Functions/Capture Lists.md",
     "Functions/Function Processing.canvas",
-    "Functions/Untitled Kanban.md",
-    "Functions/Function Overloading/Overloading With Different Parameters.md",
     "Functions/Lambda Functions",
     "Functions/Function Overloading",
     "Variables and Data Types",
     "Functions/Getting Things Out of Functions",
-    "Extras",
-    "Functions"
+    "Extras"
   ]
 }
