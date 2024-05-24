@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"2865bfc42c83adc2","type":"group","x":-743,"y":-260,"width":1057,"height":542,"color":"#724646","label":"Core Class Hierarchy"},
+		{"id":"05f5acfb9f5980d8","type":"text","text":"\nAGameMode","x":-260,"y":-240,"width":177,"height":60,"color":"6"},
+		{"id":"c47ee98a62278c9f","type":"text","text":"APlayerController","x":-266,"y":-60,"width":189,"height":60,"color":"6"},
+		{"id":"f4cc4c4519085453","type":"text","text":"AHUD","x":-723,"y":40,"width":250,"height":60,"color":"6"},
+		{"id":"d4242e9b4718f7ed","type":"text","text":"APlayerCameraManager","x":-723,"y":120,"width":250,"height":60,"color":"6"},
+		{"id":"2732a8723308fb1e","type":"text","text":"UPlayerInput","x":-723,"y":202,"width":250,"height":60,"color":"6"},
+		{"id":"93065949f59e125e","type":"text","text":"APawn","x":-20,"y":-60,"width":108,"height":60,"color":"6"},
+		{"id":"6fdcc5252713bfd9","type":"text","text":"AAIController","x":140,"y":-60,"width":154,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"5ad01470edaf55be","fromNode":"c47ee98a62278c9f","fromSide":"top","toNode":"05f5acfb9f5980d8","toSide":"bottom"},
+		{"id":"5ec48c18a882f47e","fromNode":"f4cc4c4519085453","fromSide":"right","toNode":"c47ee98a62278c9f","toSide":"left"},
+		{"id":"f63b6a2ab1dd4901","fromNode":"d4242e9b4718f7ed","fromSide":"right","toNode":"c47ee98a62278c9f","toSide":"left"},
+		{"id":"c8aa0646f89b81c4","fromNode":"2732a8723308fb1e","fromSide":"right","toNode":"c47ee98a62278c9f","toSide":"left"},
+		{"id":"469e3c1ede396696","fromNode":"c47ee98a62278c9f","fromSide":"right","toNode":"93065949f59e125e","toSide":"left"},
+		{"id":"548647a5cb8a4677","fromNode":"6fdcc5252713bfd9","fromSide":"left","toNode":"93065949f59e125e","toSide":"right"}
+	]
+}
