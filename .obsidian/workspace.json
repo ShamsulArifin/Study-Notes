@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprints/Class 1.md",
+                "file": "Realtime Product Configurator v1.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a4119d802e6c54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprints.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           },
           {
-            "id": "76fc492c731b2a11",
+            "id": "863696fb8b78e623",
             "type": "leaf",
             "state": {
               "type": "socrates-view",
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.50580978393555,
-    "collapsed": true
+    "width": 344.50580978393555
   },
   "right": {
     "id": "217a862a67823638",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blueprints/Class 1.md",
+                "file": "Blueprints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprints/Class 1.md"
+                "file": "Blueprints.md"
               }
             }
           },
@@ -141,6 +153,18 @@
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
+            }
+          },
+          {
+            "id": "0592945341d2f3eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blueprints.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -162,45 +186,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07809cfa5ddd1bc4",
+  "active": "5a4119d802e6c54d",
   "lastOpenFiles": [
+    "Blueprints.md",
+    "Realtime Product Configurator v1.0.md",
+    "Core Class Hierarchy.canvas",
+    "Custom Viewport.md",
+    "Game Instance & Game Instance Subsystem.md",
+    "Realtime Product Configurator v1.1.md",
+    "Compilation Steps (Unreal Engine).canvas",
+    "Game Engine.canvas",
+    "COMP4300/Lecture 03.md",
+    "COMP4300/Stack Memory.md",
+    "COMP4300/Heap Memory.md",
+    "COMP4300/Compile Time.md",
+    "COMP4300/COMP4300 Index.md",
+    "C++ 20 CheckList/C++ 20.md",
+    "Extras/Compilation Model.canvas",
+    "C++ 20 CheckList/Overview.canvas",
+    "References/References.md",
+    "References/Comparing Pointers And References.md",
+    "References/Declaring And Using References.md",
     "Blueprints/Class 1.md",
     "Blueprints",
-    "COMP4300/Heap Memory.md",
     "COMP4300/C++ pointers.md",
-    "COMP4300/Lecture 03.md",
-    "COMP4300/COMP4300 Index.md",
     "Extras/pointer.md",
     "Functions/Pass By Pointer.md",
-    "COMP4300/Stack Memory.md",
     "The Actor Life Cycle.canvas",
     "Session Interface Functions.md",
-    "Realtime Product Configurator v1.1.md",
-    "Realtime Product Configurator v1.0.md",
-    "Game Instance & Game Instance Subsystem.md",
-    "Custom Viewport.md",
-    "Core Class Hierarchy.canvas",
-    "C++ 20 CheckList/Overview.canvas",
-    "C++ 20 CheckList/C++ 20.md",
-    "COMP4300/Compile Time.md",
     "COMP4300/Local variables.md",
     "Stack.md",
     "COMP4300",
     "2024-05-24.md",
     "UWorld.canvas",
-    "Game Engine.canvas",
-    "Compilation Steps (Unreal Engine).canvas",
     "Concepts/Concepts Building Your Own.md",
     "Concepts/Using Concepts.md",
     "Concepts/Concepts.md",
     "VR/VR C++ Course/Basic Controller Movement.md",
-    "VR/VR Development.md",
     "VR/VR C++ Course",
-    "Functions/Function Templates/Template Specialization.md",
-    "Functions/Function Templates/Function Templates.md",
     "Concepts",
-    "Functions/Function Templates/Template Type Parameters By Reference.md",
-    "Extras/Compilation Model.canvas",
     "VR",
     "Untitled Diagram.svg",
     "Functions/Function Templates",
