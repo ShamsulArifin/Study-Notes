@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e63aeb0cd276c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object PoolPattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f80026b164eabab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,7 +103,7 @@
             }
           },
           {
-            "id": "863696fb8b78e623",
+            "id": "70b9366e7d8c4679",
             "type": "leaf",
             "state": {
               "type": "socrates-view",
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blueprints.md",
+                "file": "Game Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprints.md"
+                "file": "Game Ideas.md"
               }
             }
           },
@@ -161,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blueprints.md",
+                "file": "Game Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +210,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a4119d802e6c54d",
+  "active": "4f80026b164eabab",
   "lastOpenFiles": [
+    "Object PoolPattern.md",
+    "Game Ideas.md",
     "Blueprints.md",
     "Realtime Product Configurator v1.0.md",
     "Core Class Hierarchy.canvas",
@@ -221,8 +247,6 @@
     "UWorld.canvas",
     "Concepts/Concepts Building Your Own.md",
     "Concepts/Using Concepts.md",
-    "Concepts/Concepts.md",
-    "VR/VR C++ Course/Basic Controller Movement.md",
     "VR/VR C++ Course",
     "Concepts",
     "VR",
