@@ -1,2 +1,5 @@
 - Same as [[pointer|pointers]] in C
 - A [[pointer]] stores memory addresses
+- Modifying the pointer variable modifies the address it 'points' to
+- To modify the value of the data in memory that it points to, we [[dereference]]
+- 'Raw' pointers can be very unsafe

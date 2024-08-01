@@ -13,30 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Realtime Product Configurator v1.0.md",
+=======
+                "file": "COMP4300/C++ References.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "5a4119d802e6c54d",
+=======
+            "id": "cf60880ae53995b9",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Blueprints.md",
+=======
+                "file": "COMP4300/Lecture 03.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "0e63aeb0cd276c56",
+=======
+            "id": "c0f7472e558bd2f4",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Object PoolPattern.md",
                 "mode": "source",
                 "source": false
@@ -50,13 +67,20 @@
               "type": "markdown",
               "state": {
                 "file": "Game Ideas.md",
+=======
+                "file": "COMP4300/C++ RAII.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< Updated upstream
         "currentTab": 3
+=======
+        "currentTab": 2
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -103,7 +127,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "70b9366e7d8c4679",
+=======
+            "id": "cbb82461fa815ef5",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "socrates-view",
@@ -131,7 +159,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Game Ideas.md",
+=======
+                "file": "COMP4300/C++ References.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +175,21 @@
             }
           },
           {
+<<<<<<< Updated upstream
+=======
+            "id": "a8acd0851ddbe3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMP4300/C++ References.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+>>>>>>> Stashed changes
             "id": "b160b6bc8ae3afd9",
             "type": "leaf",
             "state": {
@@ -159,7 +206,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Game Ideas.md"
+=======
+                "file": "COMP4300/C++ References.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -210,7 +261,11 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< Updated upstream
   "active": "4f80026b164eabab",
+=======
+  "active": "fcbf6215e0ccb206",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "Object PoolPattern.md",
     "Game Ideas.md",
@@ -223,6 +278,7 @@
     "Compilation Steps (Unreal Engine).canvas",
     "Game Engine.canvas",
     "COMP4300/Lecture 03.md",
+<<<<<<< Updated upstream
     "COMP4300/Stack Memory.md",
     "COMP4300/Heap Memory.md",
     "COMP4300/Compile Time.md",
@@ -238,6 +294,18 @@
     "COMP4300/C++ pointers.md",
     "Extras/pointer.md",
     "Functions/Pass By Pointer.md",
+=======
+    "COMP4300/C++ RAII.md",
+    "Variables and Data Types/variable.md",
+    "COMP4300/C++ References.md",
+    "COMP4300/C++ pointers.md",
+    "COMP4300/C++ Arrays.md",
+    "COMP4300/COMP4300 Index.md",
+    "COMP4300/Heap Memory.md",
+    "Extras/pointer.md",
+    "Functions/Pass By Pointer.md",
+    "COMP4300/Stack Memory.md",
+>>>>>>> Stashed changes
     "The Actor Life Cycle.canvas",
     "Session Interface Functions.md",
     "COMP4300/Local variables.md",
@@ -249,6 +317,10 @@
     "Concepts/Using Concepts.md",
     "VR/VR C++ Course",
     "Concepts",
+<<<<<<< Updated upstream
+=======
+    "Extras/Compilation Model.canvas",
+>>>>>>> Stashed changes
     "VR",
     "Untitled Diagram.svg",
     "Functions/Function Templates",

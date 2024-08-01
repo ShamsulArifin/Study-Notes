@@ -1,0 +1,6 @@
+- [[References]] are essentially '**safe pointers**'
+- Instead of  * ,use **&**
+- A [[References|reference]] **MUST** point to **existing** data, 
+- and can never point to nothing/nullptr
+	- This makes them (almost) always safe
+- **Prefer** using [[References|reference]] to [[pointer|pointers]] wherever possible in our code
